@@ -1,4 +1,4 @@
-# Blinkit SQL Project
+# Blinkit Data Analysis and Analytics using SQL
 
 ![Blinkit Logo](blinkit.png)
 
