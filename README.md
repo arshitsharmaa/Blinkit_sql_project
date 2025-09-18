@@ -1,6 +1,6 @@
 # Blinkit Data Analysis and Analytics using SQL
 
-![Blinkit Logo]([C:\Users\new\Desktop\Blinkit dataset\blinkit-seeklogo.png](https://github.com/arshitsharmaa/Blinkit_sql_project/blob/main/blinkit-seeklogo.png))
+![Blinkit logo]()
 
 ## Overview
 
