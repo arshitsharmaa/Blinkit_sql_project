@@ -1,6 +1,6 @@
 # Blinkit Data Analysis and Analytics using SQL
 
-![Blinkit logo]()
+![Blinkit logo](https://github.com/arshitsharmaa/Blinkit_sql_project/blob/main/blinkit-logo-vector_logoshape.com.png)
 
 ## Overview
 
