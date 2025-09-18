@@ -4,9 +4,9 @@
 
 ## Overview
 
-The **Blinkit SQL Project** is a comprehensive data management and analytics solution designed to simulate and analyze the operations of Blinkit, a leading quick-commerce platform. This project leverages SQL to create a robust database schema, manage transactional data, and perform insightful analytics to support business decision-making.
+The **Blinkit SQL Project** is a comprehensive data management and analytics solution designed to analyze the operations of Blinkit, a leading quick-commerce platform. SQL is used to create a database schema, manage transactional data, and perform insightful analytics to support business decision-making.
 
-The project covers multiple facets of Blinkit's operations, including customer management, order processing, delivery performance, inventory tracking, marketing effectiveness, and customer feedback analysis.
+The project covers multiple Blinkit's operations, including customer management, order processing, delivery performance, inventory tracking, marketing effectiveness, and customer feedback analysis.
 
 ---
 
