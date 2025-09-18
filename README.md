@@ -1,6 +1,6 @@
 # Blinkit Data Analysis and Analytics using SQL
 
-![Blinkit Logo](blinkit.png)
+![Blinkit Logo](C:\Users\new\Desktop\Blinkit dataset\blinkit-seeklogo.png)
 
 ## Overview
 
