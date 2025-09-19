@@ -335,9 +335,9 @@ ORDER BY 2 DESC
 LIMIT 10;
 ```
 
-```sql
 ### 16. Calculate the average delivery time (in minutes) for on-time vs. delayed deliveries.
 
+```sql
 SELECT delivery_status,ROUND(AVG(delivery_time_minutes),4) AS avg_delivery_time 
 FROM delivery_performance
 GROUP BY 1;
