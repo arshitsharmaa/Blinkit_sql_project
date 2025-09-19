@@ -502,8 +502,7 @@ GROUP BY 1;
 ```
 
 
-29. Create a function named GetCustomerSegment that accepts a customer_id as input and returns the customer_
--- segment (e.g., 'Premium', 'Regular', 'Inactive') for that customer from the blinkit_customers table.
+29. Create a function named GetCustomerSegment that accepts a customer_id as input and returns the customer_segment (e.g., 'Premium', 'Regular','Inactive') for that customer from the blinkit_customers table.
 
 ```sql
 SELECT * FROM customers
@@ -529,10 +528,7 @@ SELECT get_customer_segment(8536504);
 ```
 
 
-30. Create a procedure named UpdateDeliveryStatus that updates the delivery_status in the 
--- blinkit_delivery_performance table for a given order_id. The procedure should accept two parameters:
--- the order_id and the new status. It should also check if the provided order_id exists before attempting
--- the update.
+30. Create a procedure named UpdateDeliveryStatus that updates the delivery_status in the blinkit_delivery_performance table for a given order_id. The procedure should accept two parameters: the order_id and the new status. It should also check if the provided order_id exists before attempting the update.
 
 ```sql
 SELECT distinct(delivery_status) FROM delivery_performance;
