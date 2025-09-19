@@ -112,7 +112,7 @@ CREATE TABLE order_items (
 );
 ```
 
-``sql
+```sql
 DROP TABLE IF EXISTS orders;
 CREATE TABLE orders (
     order_id BIGINT PRIMARY KEY,
