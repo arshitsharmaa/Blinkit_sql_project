@@ -502,7 +502,7 @@ FROM delivery_performance AS df
 INNER JOIN customer_feedback AS cf
 ON df.order_id = cf.order_id
 GROUP BY 1;
-```sql
+```
 
 
 -- 29. Create a function named GetCustomerSegment that accepts a customer_id as input and returns the customer_
