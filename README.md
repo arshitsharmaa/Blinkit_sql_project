@@ -24,11 +24,7 @@ The project covers multiple Blinkit's operations, including customer management,
 
 The schema consists of the following key tables:
 
-
--- blinkit project
-
-
--- creation of tables
+## Creation of tables
 ```sql
 DROP TABLE IF EXISTS customer_feedback;
 CREATE TABLE customer_feedback (
@@ -145,7 +141,7 @@ CREATE TABLE products (
 ```
 
 
--- making relationships
+## Making relationships
 
 ```sql
 ALTER TABLE inventory ADD CONSTRAINT fk_inventory_products
