@@ -190,7 +190,7 @@ SELECT * FROM inventory;
 SELECT * FROM order_items;
 ```
 
-### Business problems and solutions.
+# Business problems and solutions.
 1. -- Display the first 10 records from the blinkit_customer_feedback table.
 
 ```sql
