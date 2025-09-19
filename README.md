@@ -610,9 +610,12 @@ LIMIT 10;
 ```
 
 
-## Key insights
+## Business Key insights
 
+1. ***Average Order Value(AOV):***
+- New customers has highest AOV as compared to premium,inactive and regular customers. This shows that the customer acquisition strategy is effectively       implemented by company.
+- This will create a positive impact as it builds **Strong brand trust** and new users are confident enough to place large orders.
 
-
-
+2. ***Category based revenue:***
+- 
 
