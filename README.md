@@ -178,6 +178,7 @@ ALTER TABLE delivery_performance ADD CONSTRAINT fk_delivery_performance_orders
 FOREIGN KEY (order_id) REFERENCES orders(order_id);
 ```
 
+## Data
 ```sql
 SELECT * FROM customer_feedback;
 SELECT * FROM customers;
@@ -189,7 +190,7 @@ SELECT * FROM inventory;
 SELECT * FROM order_items;
 ```
 
-
+### Business problems and solutions.
 1. -- Display the first 10 records from the blinkit_customer_feedback table.
 
 ```sql
