@@ -618,7 +618,7 @@ LIMIT 10;
 
 2. ***Optimizing marketing spend for max growth:***
 - Our analysis has identified specific marketing campaigns that deliver a **Return On Ad Spend (ROAS) significantly higher than company average**. This        allows us to seek exact information about marketing campaigns that which campaign generate ROAS above than company average.
-**Action plan**
+ **Action plan**
 - Company should reallocate the budged and immediately shift the marketing funds from underperforming campaigns to these identified High - ROAS campaigns.
   This will maximize the revenue of the company.
 - Deconstruct the winning campaigns. Instead of running back again we need to figure out why the get succeeded by breaking it into key parts:
