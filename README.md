@@ -566,17 +566,10 @@ BEGIN
 
 END;
 $$;
-```
-```sql
+
 CALL update_delivery_status(1961864118,'On Time');
-```
-```sql
 CALL update_delivery_status(9799231260,'Slightly Delayed');
-```
-```sql
 SELECT * FROM delivery_performance WHERE order_id = 1961864118;
-```
-```sql
 SELECT * FROM delivery_performance WHERE order_id = 9799231260;
 ```
 
